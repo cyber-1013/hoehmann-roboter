@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hoehmann IT Berater</string>
+    <string name="company_name">Hoehmann IT &amp; Kommunikation</string>
+    <string name="company_url">https://it-hoehmann.com</string>
+    <string name="welcome_message">Willkommen bei Hoehmann IT!</string>
+</resources>
